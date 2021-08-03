@@ -10,7 +10,7 @@
 - Estou interessado em ampliar minha capacitação multi-disciplinar em gerenciamento de serviços e agregar valor ao meu conhecimento de sistemas Linux
 - Atualmente estou aprendendo desenvolvimento mobile pela Digital House e cursando o 3º semestre do Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas pela UNOPAR
 - Estou procurando colaborar em soluções de negócios do meu atual trabalho, desenvolvimento de soluções de automação e infraestrutura ágil para SO Linux. 
-- Como chegar até mim ...
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=original-carreira&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
